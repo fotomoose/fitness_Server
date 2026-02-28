@@ -1,0 +1,11 @@
+{
+  "name": "Fitness Server",
+  "version": "1.0",
+  "slug": "fitness_server",
+  "description": "Simple server for saving fitness data",
+  "startup": "services",
+  "boot": "auto",
+  "host_network": true,
+  "options": {},
+  "schema": {}
+}
