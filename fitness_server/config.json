@@ -3,6 +3,7 @@
   "version": "1.0",
   "slug": "fitness_server",
   "description": "Simple server for saving fitness data",
+  "arch": ["armv7", "armhf", "amd64", "aarch64"],  
   "startup": "services",
   "boot": "auto",
   "host_network": true,
